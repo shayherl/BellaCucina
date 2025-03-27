@@ -1,0 +1,43 @@
+[
+    {
+    "id": 123460,
+    "imageName": "arencini.jpeg",
+    "title": "Arancini",
+    "owner": "By: Shahar and Shay",
+    "whenUsuallyMade": "When Usually Made: Shavout",
+    "readyInMinutes": 60,
+    "aggregateLikes": 250,
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": false,
+    "summary": "Arancini are delicious Italian rice balls that are crispy on the outside and filled with a savory mixture of rice, cheese, and sometimes meat. This dish contains 300 calories, 8g of protein, and 15g of fat per serving. For $2.00 per serving, it covers 15% of your daily vitamins and minerals."
+},
+{
+    "id": 98765,
+    "imageName": "Pasta.jpeg",
+    "title": "Teriyaki Mushroom Cream Pasta",
+    "owner": "By: Shahar and Shay",
+    "whenUsuallyMade": "When Usually Made: It is always delicious",
+    "readyInMinutes": 30,
+    "aggregateLikes": 180,
+    "vegetarian": true,
+    "vegan": false,
+    "glutenFree": false,
+    "summary": "Teriyaki Mushroom Cream Pasta combines the rich flavors of teriyaki with creamy pasta and savory mushrooms. This dish contains 400 calories, 12g of protein, and 20g of fat per serving. For $3.50 per serving, it covers 20% of your daily vitamins and minerals."
+},
+{
+    "id": 54321,
+    "imageName": "Salmon.jpeg",
+    "title": "Salmon with Greens and Sliced Almonds",
+    "owner": "By: Shahar and Shay",
+    "whenUsuallyMade": "When Usually Made: Friday dinner",
+    "readyInMinutes": 25,
+    "aggregateLikes": 250,
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "summary": "Oven-Baked Salmon with Greens and Sliced Almonds is a nutritious dish packed with omega-3 fatty acids and vitamins. This recipe provides 350 calories, 25g of protein, and 18g of fat per serving. It's gluten-free and costs $5.00 per serving."
+}
+
+]
+
